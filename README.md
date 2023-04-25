@@ -35,8 +35,8 @@ Most icons are from [Material Icon Theme](https://marketplace.visualstudio.com/i
 
 <div align="center">
 
-[<img src="https://github-readme-stats.vercel.app/api?username=yukii-aoi&show_icons=true&theme=dracula" height="150" alt="GitHub Stats">](https://github.com/anuraghazra/github-readme-stats)
-[<img src="https://streak-stats.demolab.com/?user=yukii-aoi&theme=dracula" height="150" alt="GitHub Streak">](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://github-readme-stats.vercel.app/api?username=yukii-aoi&show_icons=true&theme=dracula" height="170" alt="GitHub Stats">](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://streak-stats.demolab.com/?user=yukii-aoi&theme=dracula" height="170" alt="GitHub Streak">](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
