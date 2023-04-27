@@ -53,9 +53,9 @@ Most icons are from [Material Icon Theme](https://marketplace.visualstudio.com/i
 <div align="center">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/804715190263349298?theme=dark&bg=282A36&borderRadius=15px&animated=true)](https://discord.com/users/804715190263349298)
+  
+![Count](https://count.getloli.com/get/@yukii-aoi?theme=moebooru)
 
 </div>
-
-![Count](https://count.getloli.com/get/@yukii-aoi?theme=moebooru)
 
 ![Wave](https://cdn.discordapp.com/attachments/1100359940918476812/1100478757317398660/image.png)
