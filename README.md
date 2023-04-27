@@ -56,4 +56,6 @@ Most icons are from [Material Icon Theme](https://marketplace.visualstudio.com/i
 
 </div>
 
+![Count](https://count.getloli.com/get/@yukii-aoi?theme=moebooru)
+
 ![Wave](https://cdn.discordapp.com/attachments/1100359940918476812/1100478757317398660/image.png)
