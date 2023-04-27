@@ -1,4 +1,4 @@
-# Yukii Aoi
+# 
 
 ![Banner](https://cdn.discordapp.com/attachments/1100359940918476812/1100464694260670534/image.png)
 
@@ -53,7 +53,13 @@ Most icons are from [Material Icon Theme](https://marketplace.visualstudio.com/i
 <div align="center">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/804715190263349298?theme=dark&bg=282A36&borderRadius=15px&animated=true)](https://discord.com/users/804715190263349298)
-  
+
+</div>
+
+## Thanks for reading
+
+<div align="center">
+
 ![Count](https://count.getloli.com/get/@yukii-aoi?theme=moebooru)
 
 </div>
