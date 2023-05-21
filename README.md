@@ -1,13 +1,8 @@
 # 
 
-![Banner](https://cdn.discordapp.com/attachments/1100359940918476812/1100464694260670534/image.png)
-
 ## About Me
 
-Hi! I'm Aoi! Welcome to my profile. I'm a normal Front-end Developer and Web Designer from Vietnam.
-I also have a few other nicknames, mostly from my old Discord usernames like Himiko, Nya... you can call me by these names if you want. However, if you know my real name, don't call it by it because I don't like revealing my real name.
-
-My waifu is Wu Yao Yao from [My Fake Girlfriend's Defending Against Their Attacks](https://www.bilibilicomics.com/detail/mc1872)!
+Hi! I'm Yukii Aoi! Welcome to my profile. I'm a normal Front-end Developer and Web Designer from Vietnam.
 
 ## My Work
 
